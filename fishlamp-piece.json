@@ -1,0 +1,9 @@
+{	
+	"pieceName": "fishlamp-templates",
+	"shortDescription" : "templates required by fishlamp scripts",
+	"url": "",
+	"createdBy": "Mike Fullerton",
+	"createdOn": "08/03/2013",
+	"contact": "hello@fishlamp.comp",
+	"importPaths": "Classes, Extras"
+}
